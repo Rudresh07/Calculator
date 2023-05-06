@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name = "calc_text">7674623</string>
+    <string name="equal">=</string>
+</resources>
